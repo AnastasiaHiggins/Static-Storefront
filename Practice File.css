@@ -1,0 +1,109 @@
+html { 
+    background: url(https://imgur.com/6Dc5CmC.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  .navbar {
+  
+    display: block;
+    background-color: #6655E3;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a {
+    float: right;
+    display: block;
+    background-color: #6655E3;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+    
+    .wrapper{
+      margin: 5px;
+  }
+    
+    .styled {
+      border: 0;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1rem;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: #5643E0;
+      background-image: linear-gradient(to top left,
+                                        rgba(0, 0, 0, .2),
+                                        rgba(0, 0, 0, .2) 30%,
+                                        rgba(0, 0, 0, 0));
+      box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                  inset -2px -2px 3px rgba(0, 0, 0, .6);
+  }
+  
+  .styled:hover {
+      background-color: #6655E3;
+  }
+  
+  .styled:active {
+      box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                  inset 2px 2px 3px rgba(0, 0, 0, .6);
+  }
+    
+  .icons
+  {
+    height: 100px;
+  }
+  
+    .listings {
+      float: left;
+      text-align: center;
+      border-radius: 15px;
+      height: 200px;
+      width: 190px;
+      background: #5643E0;
+      margin: 90px 70px 0px 0px;
+    }
+  
+  .sidebar {
+      float: right;
+      text-align: left;
+      height: 1000px;
+      width: 250px;
+    margin: 90px 70px 0px 0px;
+    background-color: #6655E3;
+  }
+  
+  h1 {
+  color: red;
+  font-family: arial, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 3px;
+  margin-bottom: 1px;
+  }
+  
+  h2 {
+  color: black;
+  font-family: arial, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 3px;
+  margin-bottom: 1px;
+  }
+  
+  h4 {
+  color: red;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 1px;
+  }
+  
